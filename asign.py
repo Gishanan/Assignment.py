@@ -1,4 +1,4 @@
-#save password permanently
+#save password permanently suki
 account={}
 def create_password():
     user_pin =input("Enter a password: ")       
